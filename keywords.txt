@@ -1,6 +1,7 @@
 # TYPES (KEYWORD1)
-AnalogFilter	KEYWORD1
 Filter	KEYWORD1
+AnalogFilter	KEYWORD1
+DigitalFilter	KEYWORD1
 
 # FUNCTIONS (KEYWORD2)
 update	KEYWORD2
